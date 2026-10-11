@@ -1,0 +1,14 @@
+{
+    "hotels": [
+        {
+            "id": 2,
+            "name": "Budget Inn",
+            "location": {
+                "latitude": "12.79",
+                "longitude": "18.75"
+            },
+            "pricePerNight": "1500",
+            "isAvailable": "true"
+        }
+    ]
+}
